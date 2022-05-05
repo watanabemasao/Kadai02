@@ -13,7 +13,7 @@ public class Lis2 {
 
         int index = list.indexOf( ans );
 
-        System.out.println( ans + "の要素番号は" + index + "番です。" );
+        System.out.println( ans + "の要素番号は" + index + "番です" );
 
     }
 
