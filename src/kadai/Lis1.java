@@ -6,6 +6,9 @@ import java.util.ArrayList;
 
 public class Lis1 {
     public static void main(String[] args) {
+
+        //5.String型のListかMapを作成して、その内容をコンソール画面に表示
+
         List<String> list = new ArrayList<>(); //List<データ型名> オブジェクト名 = new ArrayList<データ型名>();
 
         list.add("a"); // 数字の場合は List<Integer> を使用 例：list.add(1);
@@ -18,5 +21,4 @@ public class Lis1 {
 
         }
     }
-
 }
