@@ -11,7 +11,7 @@ public class Lis2 {
 
         List<String> list = new ArrayList<>(Arrays.asList( "A" , "B" , "C" , "D" , "E" , "F" , "G" )); //初期値0番
 
-        int index = list.indexOf( ans );
+        int index = list.indexOf(ans);
 
         System.out.println( ans + "の要素番号は" + index + "番です" );
 
